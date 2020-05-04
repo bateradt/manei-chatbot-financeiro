@@ -1,10 +1,6 @@
 <h1 align="center">Bem vindo ao Manei Chatbot Financeiro 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-
-  <a href="https://twitter.com/godrizilla" target="_blank">
-    <img alt="Twitter: godrizilla" src="https://img.shields.io/twitter/follow/godrizilla.svg?style=social" />
-  </a>
 </p>
 
 > Manei Chatbot Financeiro - Mega Hack 2.0 - Time 45
@@ -29,6 +25,10 @@ yarn start
 👤 **Daniel Rodrigues**
 👤 **Gabriela Argentina**
 👤 **Gabriela Puigi**
+
+## WhatsApp client library
+
+(https://github.com/pedroslopez/whatsapp-web.js)
 
 ## Show your support
 
