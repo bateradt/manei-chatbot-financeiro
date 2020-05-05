@@ -22,9 +22,9 @@ yarn start
 ## Authors
 
 👤 **Marcelo Fernando Scarpim**
-👤 **Daniel Rodrigues**
-👤 **Gabriela Argentina**
-👤 **Gabriela Puigi**
+👤 **Daniel Augusto Rodrigues Farina**
+👤 **Gabriela Beatriz Amadori**
+👤 **Gabriela Goudromihos Puig**
 
 ## WhatsApp client library
 
